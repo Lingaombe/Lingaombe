@@ -1,7 +1,3 @@
-<h1 align="left">Heyyooo</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
