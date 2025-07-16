@@ -4,7 +4,8 @@
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/5e167cb7-bdb2-422e-8363-68579bb706bd" /> Say hie:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hanmngoli?igsh=MTM3Mncwc2s5cDZydA%3D%3D&utm_source=qr ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hannahmngoli) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hmngoli/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/whisper_nero/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:hmngoli@outlook.com) <hr>
 
-# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c0ae2c21-2114-426e-9123-ae22ae6a13f7" /> GitHub Stats:
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/4916fe6b-9c44-428f-93a8-ae9d2608f0bf" />
+ GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Lingaombe&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingaombe&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<hr>
 
