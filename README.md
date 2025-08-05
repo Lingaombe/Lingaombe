@@ -8,5 +8,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Lingaombe&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingaombe&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<hr>
 
-### <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/5360e508-4471-4462-abf6-fb4005342346" /> Random Dev Quote
+### <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/5360e508-4471-4462-abf6-fb4005342346" /> Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<hr>
