@@ -13,6 +13,9 @@
 <br>
 
 # <img width="32" height="32" alt="socials" src="https://github.com/user-attachments/assets/84cd3da5-916f-4017-869f-e2b7b27949a3" /> Say Hey
+<p>
+  Mwadzuka bwanji?  Mwauka uli? Good morning.
+</p>
  <div align='center'>
     <a href = "mailto:mailto:hmngoli@gmail.com" target="_blank"><img width="24" height="24" alt="gmail" src="https://github.com/user-attachments/assets/77237f17-307d-4307-98e2-6e5dc5eabde3" /></a>
     <a href = "https://www.linkedin.com/in/hannahmngoli" target="_blank"><img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/1f701e65-d61e-48f0-80d9-7d5325d5a1ec" /></a>
