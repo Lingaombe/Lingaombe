@@ -8,7 +8,7 @@
 # <img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/1ae455b1-2a9c-422a-9c77-68ee35576727" /> What I Use
 <div align="center">
   
-  `JavaScript` • `Python` • `Java` • `Arduino(C/C++)` • `Embedded C(8051)` • `Assembly(8051)` • `Powershell` • `Git` • `GitHub` • `CSS3` • `HTML5` • `React` • `Flask` • `Chakra UI` • `Material UI` • `UIVerse` • `Bootstrap` • `Node.js` • `Express.js` • `PostgreSQL` • `MySQL` • `MongoDB` • `Pandas` • `NumPy` • `Canva` • `Netlify` • `Vercel` • `Nodemon` • `Postman` • `Prettier` • `npm` • `pip`
+  `JavaScript` • `Python` • `Java` • `Arduino(C/C++)` • `Embedded C(8051)` • `Assembly(8051)` • `Powershell` • `Git` • `GitHub` • `CSS3` • `HTML5` • `React` • `Flask` • `Chakra UI` • `Material UI` • `UIVerse` • `Bootstrap` • `Canva` • `Node.js` • `Express.js` • `PostgreSQL` • `MySQL` • `MongoDB` • `Pandas` • `NumPy` • `Netlify` • `Vercel` • `Nodemon` • `Postman` • `Prettier` • `npm` • `pip`
 </div>
 <br>
 
