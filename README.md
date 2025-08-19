@@ -12,7 +12,7 @@
 </div>
 <br>
 
-# <img width="32" height="32" alt="socials" src="https://github.com/user-attachments/assets/84cd3da5-916f-4017-869f-e2b7b27949a3" /> Say Hey
+# <img width="33" height="33" alt="image" src="https://github.com/user-attachments/assets/6e5b5606-bc6d-42d5-ba16-f1548547966c" /> Say Hey
 <p>
   Mwadzuka bwanji?  Mwauka uli? Good morning.
 </p>
