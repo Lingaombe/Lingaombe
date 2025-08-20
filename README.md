@@ -26,7 +26,7 @@
  </div>
 <br>
 
-# <img width="32" height="32" alt="stats" src="https://github.com/user-attachments/assets/29f6b971-861b-47f9-a52e-3274ec141d0e" /> GitHub Stats
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9a7e4980-836f-4843-ae2b-8e9ba23c077a" /> GitHub Stats
 <div align="center">
   
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingaombe&langs_count=20&hide_progress=true&theme=default&bg_color=00000000&hide_border=true)
