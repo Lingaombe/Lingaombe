@@ -14,7 +14,7 @@
 
 # <img width="33" height="33" alt="image" src="https://github.com/user-attachments/assets/6e5b5606-bc6d-42d5-ba16-f1548547966c" /> Say Hey
 <p>
-  Mwadzuka bwanji?  Mwauka uli? Good morning.
+  Mwadzuka bwanji?  Mwauka uli? Good morning..
 </p>
  <div align='center'>
     <a href = "mailto:mailto:hmngoli@gmail.com" target="_blank"><img width="24" height="24" alt="gmail" src="https://github.com/user-attachments/assets/77237f17-307d-4307-98e2-6e5dc5eabde3" /></a>
