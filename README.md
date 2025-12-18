@@ -1,5 +1,5 @@
 <h1 align="center" ><img width="36" height="36" alt="hello" src="https://github.com/user-attachments/assets/5ffec26a-13da-45c0-81a3-6004f07f6923" /> Hannah Here!</h1>
-<div align="center">
+<div>
   <p>I am a cs student with a background in microbiology from Malawi "The Warm Heart Of Africa"</p>
   <p>right now i'm working on <a href="https://github.com/Lingaombe/VCKTsAssist">TsAssist</a> a teacher assistant tool for exam creation built with Flask</p>
   <p>my favourite project is <a href="https://github.com/Lingaombe/hair">Pick Ya Fro</a> which is a tool for randomly picking a hairstyle</p>
