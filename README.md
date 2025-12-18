@@ -1,7 +1,8 @@
 <h1 align="center" ><img width="36" height="36" alt="hello" src="https://github.com/user-attachments/assets/5ffec26a-13da-45c0-81a3-6004f07f6923" /> Hannah Here!</h1>
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_darkbg_color=00000000)
+  <p>I am a cs student with a background in microbiology from Malawi "The Warm Heart Of Africa"</p>
+  <p>right now i'm working on <a href="https://github.com/Lingaombe/VCKTsAssist">TsAssist</a> a teacher assistant tool for exam creation built with Flask</p>
+  <p>my favourite project is <a href="https://github.com/Lingaombe/hair">Pick Ya Fro</a> which is a tool for randomly picking a hairstyle</p>
 </div>
 <br>
 
@@ -25,6 +26,11 @@
     <a href = "https://www.reddit.com/user/whisper_nero" target="_blank"><img width="24" height="24" alt="reddit" src="https://github.com/user-attachments/assets/6b93e6d4-a1c0-406c-9ea9-40b9feede1a1" /></a>
  </div>
 <br>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_darkbg_color=00000000)
+</div>
 
 # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9a7e4980-836f-4843-ae2b-8e9ba23c077a" /> GitHub Stats
 <div align="center">
