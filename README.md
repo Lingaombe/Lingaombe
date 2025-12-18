@@ -27,14 +27,15 @@
  </div>
 <br>
 
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_darkbg_color=00000000)
-</div>
-
 # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9a7e4980-836f-4843-ae2b-8e9ba23c077a" /> GitHub Stats
 <div align="center">
   
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingaombe&langs_count=20&hide_progress=true&theme=default&bg_color=00000000&hide_border=true)
   [![](https://nirzak-streak-stats.vercel.app?user=Lingaombe&theme=prussian&hide_border=true&card_height=184&background=EB545400&hide_total_contributions=true)](https://git.io/streak-stats)
+</div>
+<br>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_darkbg_color=00000000)
 </div>
