@@ -1,6 +1,6 @@
 <h1 align="center" ><img width="36" height="36" alt="hello" src="https://github.com/user-attachments/assets/5ffec26a-13da-45c0-81a3-6004f07f6923" /> Hannah Here!</h1>
 <div>
-  <p>I am a cs student with a background in microbiology from Malawi "The Warm Heart Of Africa"</p>
+  <p>I am a Computer Science student with a background in Microbiology from Malawi "The Warm Heart Of Africa"</p>
   <p>right now i'm working on <a href="https://github.com/Lingaombe/VCKTsAssist">TsAssist</a> a teacher assistant tool for exam creation built with Flask</p>
   <p>my favourite project is <a href="https://github.com/Lingaombe/hair">Pick Ya Fro</a> which is a tool for randomly picking a hairstyle</p>
   <p></p>
@@ -10,7 +10,7 @@
 # <img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/1ae455b1-2a9c-422a-9c77-68ee35576727" /> What I Use
 <div align="center">
   
-`Python` •  `JavaScript` •`Java` • `Arduino(C/C++)` • `Embedded C(8051)` • `Assembly(8051)` • `Powershell` • `Git` • `GitHub` • `CSS3` • `HTML5` • `React` • `Flask` • `Vue` • `Chakra UI` • `Material UI` • `UIVerse` • `Bootstrap` • `Canva` • `Node.js` • `Express.js` • `MySQL` • `MongoDB` • `Pandas` • `NumPy` • `Netlify` • `Vercel` • `Railway` • `Nodemon` • `Postman` • `Prettier` • `npm` • `pip`
+`Python` • `JavaScript` • `Java` • `Arduino(C/C++)` • `Embedded C(8051)` • `Assembly(8051)` • `Powershell` • `Git` • `GitHub` • `CSS3` • `HTML5` • `React` • `Flask` • `Vue` • `Chakra UI` • `Material UI` • `UIVerse` • `Bootstrap` • `Canva` • `Node.js` • `Express.js` • `MySQL` • `MongoDB` • `Pandas` • `NumPy` • `Netlify` • `Vercel` • `Railway` • `Nodemon` • `Postman` • `Prettier` • `npm` • `pip`
 </div>
 <br>
 
