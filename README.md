@@ -5,14 +5,14 @@
   <p>My favourite project is <a href="https://github.com/Lingaombe/hair">Pick Ya Fro</a> which is a tool for randomly picking a hairstyle</p>
   <p></p>
 </div>
-<br>
+
 
 # <img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/1ae455b1-2a9c-422a-9c77-68ee35576727" /> What I Use
 <div align="center">
   
 `Python` • `JavaScript` • `Git` • `CSS3` • `HTML5` • `React` • `Flask` • `Vue` • `Express.js` • `MySQL` • `MongoDB` • `Pandas` • `NumPy` • `Chakra UI` • `Material UI` • `UIVerse` • `Bootstrap` • `Canva` 
 </div>
-<br>
+
 
 # <img width="33" height="33" alt="image" src="https://github.com/user-attachments/assets/6e5b5606-bc6d-42d5-ba16-f1548547966c" /> Say Hey
 <p>
